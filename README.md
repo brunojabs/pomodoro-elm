@@ -3,7 +3,7 @@
 A simple [Pomodoro](https://en.wikipedia.org/wiki/Pomodoro_Technique) App where you can track your focus time in blocks of time.
 
 This app was written during a Stream on Twich, you can watch it [here](https://www.twitch.tv/videos/633038001).
-(consider subcribe to more 😘)
+(consider subcribe for more 😘)
 
 # Setup
 
