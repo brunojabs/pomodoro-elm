@@ -1,0 +1,13 @@
+Estamos programando um app pomodoro
+O que é pomodoro?
+Digite !pomodoro no chat
+
+Features:
+-> Podemos iniciar e pausar um ciclo o programa
+-> Tamanho dos ciclos para fins de demonstração
+   -> Trabalho: 100s
+	 -> Descanso curto: 15s
+	 -> Descanso Longo: 90s
+-> Ao chegar no fim de um ciclo, inicia o próximo automaticamente
+-> A cada 4 descanso curtos temos um descanso longo
+-> Podemos reiniciar o app do zero
